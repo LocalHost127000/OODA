@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2021-01-09T09:57:58.304Z" agent="5.0 (X11)" etag="qK_3ljU8T1qhdFWqZz3G" version="14.1.8" type="github">
-  <diagram id="ZVyBo8nw6YCNj5e1UvPp" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2021-01-09T10:21:52.697Z" agent="5.0 (X11)" etag="J0Sw2a1y8_U6w3Z-mfiW" version="14.1.8" type="github" pages="2">
+  <diagram id="ZVyBo8nw6YCNj5e1UvPp" name="Dang nhap">
     <mxGraphModel dx="1422" dy="843" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -24,6 +24,81 @@
         </mxCell>
         <mxCell id="w9DCA4Hgo60gSGukFtPC-15" value="Người dùng" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="90" y="210" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="i0LLbX9-UMco_1WfXrU_" name="muon thiet bi">
+    <mxGraphModel dx="1422" dy="843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="VUPyePXYZ3o2QXs6wZ2a-0" />
+        <mxCell id="VUPyePXYZ3o2QXs6wZ2a-1" parent="VUPyePXYZ3o2QXs6wZ2a-0" />
+        <mxCell id="V7qwe4v2alUC_5vRHucL-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=open;endFill=0;" edge="1" parent="VUPyePXYZ3o2QXs6wZ2a-1" source="V7qwe4v2alUC_5vRHucL-1" target="V7qwe4v2alUC_5vRHucL-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="210" />
+              <mxPoint x="350" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V7qwe4v2alUC_5vRHucL-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;boundary&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;FormMuonTB&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+ muonTB()&lt;br&gt;+ xemTheMuon()&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+ luuTheMuon()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="VUPyePXYZ3o2QXs6wZ2a-1">
+          <mxGeometry x="139" y="160" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="V7qwe4v2alUC_5vRHucL-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="VUPyePXYZ3o2QXs6wZ2a-1" source="V7qwe4v2alUC_5vRHucL-5" target="V7qwe4v2alUC_5vRHucL-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V7qwe4v2alUC_5vRHucL-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="VUPyePXYZ3o2QXs6wZ2a-1" source="V7qwe4v2alUC_5vRHucL-5" target="V7qwe4v2alUC_5vRHucL-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="260" />
+              <mxPoint x="530" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V7qwe4v2alUC_5vRHucL-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="VUPyePXYZ3o2QXs6wZ2a-1" source="V7qwe4v2alUC_5vRHucL-5" target="V7qwe4v2alUC_5vRHucL-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="441" y="350" />
+              <mxPoint x="219" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V7qwe4v2alUC_5vRHucL-5" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;control&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;DKMuonTB&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- dsMaMuon&lt;br&gt;- maID: String&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ xacThucNguoiMuon()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ xacThucMaTaiSan()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ getTheMuon()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ setDSTaiSanMuon()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ setMaID&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="VUPyePXYZ3o2QXs6wZ2a-1">
+          <mxGeometry x="360" y="160" width="161" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="V7qwe4v2alUC_5vRHucL-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" edge="1" parent="VUPyePXYZ3o2QXs6wZ2a-1" source="V7qwe4v2alUC_5vRHucL-7" target="V7qwe4v2alUC_5vRHucL-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V7qwe4v2alUC_5vRHucL-7" value="Người quản lý" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="VUPyePXYZ3o2QXs6wZ2a-1">
+          <mxGeometry x="60" y="180" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V7qwe4v2alUC_5vRHucL-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="VUPyePXYZ3o2QXs6wZ2a-1" source="V7qwe4v2alUC_5vRHucL-10" target="V7qwe4v2alUC_5vRHucL-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="490" />
+              <mxPoint x="560" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V7qwe4v2alUC_5vRHucL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="VUPyePXYZ3o2QXs6wZ2a-1" source="V7qwe4v2alUC_5vRHucL-10" target="V7qwe4v2alUC_5vRHucL-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="475" />
+              <mxPoint x="340" y="475" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V7qwe4v2alUC_5vRHucL-10" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;control&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;DKTimKiem&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- dsTieuChi&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- dsThuocTinh&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- dsThaoTac&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- dsKetQua&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ xuLyTuKhoa()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ getKetQua()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ timTaiSan()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ setTieuChi()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="VUPyePXYZ3o2QXs6wZ2a-1">
+          <mxGeometry x="360" y="380" width="161" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="V7qwe4v2alUC_5vRHucL-11" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;entity&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;TheMuon&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- maTheMuon: String&lt;br&gt;- maID: String&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- dsMaTaiSanMuon()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- thoiGianMuon: Date&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- thoiGianTra: Date&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ getTheMuon()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ capNhatTheMuon()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ xoaTheMuon()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ themTheMuon()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ getMaID()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="VUPyePXYZ3o2QXs6wZ2a-1">
+          <mxGeometry x="580" y="160" width="161" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="V7qwe4v2alUC_5vRHucL-12" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;entity&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;TaiSan&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- maTaiSan: String&lt;br&gt;- tenTaiSan: String&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- soLuong: int&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ getMaTaiSan()&lt;br&gt;+ getTenTaiSan()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ timKiem()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ getSoLuong()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="VUPyePXYZ3o2QXs6wZ2a-1">
+          <mxGeometry x="580" y="400" width="161" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="V7qwe4v2alUC_5vRHucL-13" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;entity&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;NguoiMuon&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- maID: String&lt;br&gt;- tenNguoiMuon: String&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- chucVu: String&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ xacThucNguoiMuon()&lt;br&gt;+ capNhatNguoiMuon()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ getMaID()&amp;nbsp;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="VUPyePXYZ3o2QXs6wZ2a-1">
+          <mxGeometry x="139" y="410" width="161" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
