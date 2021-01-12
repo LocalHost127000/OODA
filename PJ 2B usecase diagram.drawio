@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-12T05:59:00.020Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="wXUbT-2lqRF96UAFBu93" version="14.1.9" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-01-12T06:00:06.351Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="7iUyKr79BpvzhIuBZ3-s" version="14.1.9" type="github" pages="5">
   <diagram id="dVXqkfpi9wXPAialBgrI" name="UC1">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -82,7 +82,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IGF3EsUmBoyFUmp52A5r" name="QL mượn trả">
-    <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="526" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="8nXFH0JiOrz2kU0Iak2L-0" />
         <mxCell id="8nXFH0JiOrz2kU0Iak2L-1" parent="8nXFH0JiOrz2kU0Iak2L-0" />
