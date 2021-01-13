@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-13T15:19:56.633Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="7xC4plBn_W1ji8y2FDOj" version="14.1.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-13T15:20:05.402Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="YBun5Z29RRCsUrJLa_WU" version="14.1.9" type="github" pages="3">
   <diagram id="SXfDxzFWt6EPNgV6SbXH" name="Đăng nhập">
     <mxGraphModel dx="813" dy="435" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -119,6 +119,14 @@
         <mxCell id="JVyGv4h9Akxs4etBbPEn-13" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="VKb3eYI90odOWDq8hzrA-1">
           <mxGeometry x="384" y="480" width="30" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="fsC4OUiCiGQ5-9XXmc77" name="Tìm kiếm">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="KzRlcFGy_p1mks7pCotf-0" />
+        <mxCell id="KzRlcFGy_p1mks7pCotf-1" parent="KzRlcFGy_p1mks7pCotf-0" />
       </root>
     </mxGraphModel>
   </diagram>
