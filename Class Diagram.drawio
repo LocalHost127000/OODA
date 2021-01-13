@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-13T05:10:04.220Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="aqqS_PUwxcSRdFUJreuc" version="14.1.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-01-13T05:13:27.480Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="wXwhHa0xVLJ9c9a5Jh_o" version="14.1.9" type="github" pages="4">
   <diagram id="RAEitHrTKvxhVRwaa03w" name="class">
     <mxGraphModel dx="1185" dy="635" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -231,7 +231,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aAGrlb5YGExNt_dQUtVv-7" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;control&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;DKSCBTTB&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- dsMaTaiSan[]&lt;br&gt;- maSCBT: String&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;span&gt;+ xacThucMaTaiSan()&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ getMaSCBT()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ setDSMaTaiSan()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ setMaSCBT()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="aAGrlb5YGExNt_dQUtVv-1">
+        <mxCell id="aAGrlb5YGExNt_dQUtVv-7" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;control&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;DKSCBT&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- dsMaTaiSan[]&lt;br&gt;- maSCBT: String&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;span&gt;+ xacThucMaTaiSan()&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ getMaSCBT()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ setDSMaTaiSan()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ setMaSCBT()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="aAGrlb5YGExNt_dQUtVv-1">
           <mxGeometry x="360" y="160" width="161" height="160" as="geometry" />
         </mxCell>
         <mxCell id="aAGrlb5YGExNt_dQUtVv-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" edge="1" parent="aAGrlb5YGExNt_dQUtVv-1" source="aAGrlb5YGExNt_dQUtVv-9" target="aAGrlb5YGExNt_dQUtVv-3">
@@ -251,6 +251,51 @@
         </mxCell>
         <mxCell id="aAGrlb5YGExNt_dQUtVv-14" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;entity&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;TaiSan&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- maTaiSan: String&lt;br style=&quot;padding: 0px ; margin: 0px&quot;&gt;- tenTaiSan: String&lt;br style=&quot;padding: 0px ; margin: 0px&quot;&gt;- soLuong: int&lt;br style=&quot;padding: 0px ; margin: 0px&quot;&gt;- maLoaiTS: String&lt;br style=&quot;padding: 0px ; margin: 0px&quot;&gt;- maDVT: String&lt;br style=&quot;padding: 0px ; margin: 0px&quot;&gt;- maNCC: String&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ getMaTaiSan()&lt;br&gt;+ getTenTaiSan()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ getLoaiTS()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ getNCC()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ timKiemTS()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ getSoLuong()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="aAGrlb5YGExNt_dQUtVv-1">
           <mxGeometry x="138" y="320" width="161" height="230" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="SH1pedr4PIhH-PoAaaO5" name="hoan tat sua chua bao tri">
+    <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="ecenxI_oaud6PLR1HW06-0" />
+        <mxCell id="ecenxI_oaud6PLR1HW06-1" parent="ecenxI_oaud6PLR1HW06-0" />
+        <mxCell id="ecenxI_oaud6PLR1HW06-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;endSize=8;dashed=1;" edge="1" parent="ecenxI_oaud6PLR1HW06-1" source="ecenxI_oaud6PLR1HW06-3" target="ecenxI_oaud6PLR1HW06-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="195" />
+              <mxPoint x="350" y="195" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ecenxI_oaud6PLR1HW06-3" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;boundary&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;FormHTSCBT&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ hoanTatSCBT()&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="ecenxI_oaud6PLR1HW06-1">
+          <mxGeometry x="160" y="160" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ecenxI_oaud6PLR1HW06-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;endSize=8;" edge="1" parent="ecenxI_oaud6PLR1HW06-1" source="ecenxI_oaud6PLR1HW06-5" target="ecenxI_oaud6PLR1HW06-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ecenxI_oaud6PLR1HW06-5" value="Employee" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="ecenxI_oaud6PLR1HW06-1">
+          <mxGeometry x="80" y="165" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ecenxI_oaud6PLR1HW06-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;endSize=8;" edge="1" parent="ecenxI_oaud6PLR1HW06-1" source="ecenxI_oaud6PLR1HW06-8" target="ecenxI_oaud6PLR1HW06-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="230" />
+              <mxPoint x="530" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ecenxI_oaud6PLR1HW06-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;endSize=8;" edge="1" parent="ecenxI_oaud6PLR1HW06-1" source="ecenxI_oaud6PLR1HW06-8" target="ecenxI_oaud6PLR1HW06-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ecenxI_oaud6PLR1HW06-8" value="&lt;p style=&quot;margin: 4px 0px 0px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;control&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;DKHTSCBT&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;- dsMaTaiSan[]&lt;br&gt;- maSCBT: String&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+ xacThucMaTaiSan()&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+ getMaSCBT()&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+ setDSMaTaiSan()&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px&quot;&gt;+ setMaSCBT()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="ecenxI_oaud6PLR1HW06-1">
+          <mxGeometry x="360" y="120" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ecenxI_oaud6PLR1HW06-9" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;entity&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;TheMuon&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- maTheMuon: String&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- maID: String&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- dsMaThietBiMuon&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- thoiGianMuon: Date&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- thoiGianTra: Date&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ getTheMuon()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ capNhatTheMuon()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ themTheMuon()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ getNguoiMuon()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ getThietBiMuonTheoTen()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ getThietBiMuonTheoThoiGian()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="ecenxI_oaud6PLR1HW06-1">
+          <mxGeometry x="560" y="120" width="190" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="ecenxI_oaud6PLR1HW06-10" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;entity&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;NguoiMuon&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- maID: String&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- tenNguoiMuon: String&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- chucVu: String&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ xacThucNguoiMuon()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ capNhatNguoiMuoi()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ getMaID()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="ecenxI_oaud6PLR1HW06-1">
+          <mxGeometry x="360" y="320" width="160" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
