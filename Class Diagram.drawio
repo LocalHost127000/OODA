@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-13T05:09:49.433Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="aXkzS8E5jgmrD1syFFmL" version="14.1.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-01-13T05:10:04.220Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="aqqS_PUwxcSRdFUJreuc" version="14.1.9" type="github" pages="3">
   <diagram id="RAEitHrTKvxhVRwaa03w" name="class">
     <mxGraphModel dx="1185" dy="635" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -208,7 +208,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zAO2OxBTRoCuoDUjrDyt" name="Sua chua bao tri">
-    <mxGraphModel dx="813" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="813" dy="435" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="aAGrlb5YGExNt_dQUtVv-0" />
         <mxCell id="aAGrlb5YGExNt_dQUtVv-1" parent="aAGrlb5YGExNt_dQUtVv-0" />
@@ -237,7 +237,7 @@
         <mxCell id="aAGrlb5YGExNt_dQUtVv-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" edge="1" parent="aAGrlb5YGExNt_dQUtVv-1" source="aAGrlb5YGExNt_dQUtVv-9" target="aAGrlb5YGExNt_dQUtVv-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aAGrlb5YGExNt_dQUtVv-9" value="Người quản lý" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="aAGrlb5YGExNt_dQUtVv-1">
+        <mxCell id="aAGrlb5YGExNt_dQUtVv-9" value="Employee" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="aAGrlb5YGExNt_dQUtVv-1">
           <mxGeometry x="60" y="180" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x_qhnZGOFe83ArAi6nXp-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startSize=7;endArrow=open;endFill=0;endSize=8;" edge="1" parent="aAGrlb5YGExNt_dQUtVv-1" source="aAGrlb5YGExNt_dQUtVv-12" target="aAGrlb5YGExNt_dQUtVv-14">
