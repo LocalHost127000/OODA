@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-13T05:13:27.480Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="wXwhHa0xVLJ9c9a5Jh_o" version="14.1.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-01-13T05:37:02.525Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="UmTbdJd2y0MnlSaaDwM5" version="14.1.9" type="github" pages="4">
   <diagram id="RAEitHrTKvxhVRwaa03w" name="class">
     <mxGraphModel dx="1185" dy="635" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -183,7 +183,7 @@
       <root>
         <mxCell id="YnYnntMEkjnaOTe9JXkg-0" />
         <mxCell id="YnYnntMEkjnaOTe9JXkg-1" parent="YnYnntMEkjnaOTe9JXkg-0" />
-        <mxCell id="HtbIlN3Xa4dZuLqBQ0ec-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;endSize=8;" edge="1" parent="YnYnntMEkjnaOTe9JXkg-1" source="HtbIlN3Xa4dZuLqBQ0ec-1" target="HtbIlN3Xa4dZuLqBQ0ec-3">
+        <mxCell id="HtbIlN3Xa4dZuLqBQ0ec-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;endSize=8;dashed=1;" edge="1" parent="YnYnntMEkjnaOTe9JXkg-1" source="HtbIlN3Xa4dZuLqBQ0ec-1" target="HtbIlN3Xa4dZuLqBQ0ec-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HtbIlN3Xa4dZuLqBQ0ec-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;boundary&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;FormDangNhap&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ dangNhap(String userName, String password)&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="YnYnntMEkjnaOTe9JXkg-1">
