@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-12T13:50:46.084Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="3EUyy6XDy11hr6PLzuMb" version="14.1.9" type="github">
-  <diagram id="RAEitHrTKvxhVRwaa03w" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2021-01-13T03:50:32.319Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="XUXMyFPKTW5tF0SKu5sn" version="14.1.9" type="github" pages="2">
+  <diagram id="RAEitHrTKvxhVRwaa03w" name="class">
+    <mxGraphModel dx="1185" dy="635" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -174,6 +174,35 @@
           <mxGeometry x="1" relative="1" as="geometry">
             <mxPoint x="10" as="offset" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="h5h7EHYUHNHQWOioB1R5" name="login">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="YnYnntMEkjnaOTe9JXkg-0" />
+        <mxCell id="YnYnntMEkjnaOTe9JXkg-1" parent="YnYnntMEkjnaOTe9JXkg-0" />
+        <mxCell id="HtbIlN3Xa4dZuLqBQ0ec-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;endSize=8;" edge="1" parent="YnYnntMEkjnaOTe9JXkg-1" source="HtbIlN3Xa4dZuLqBQ0ec-1" target="HtbIlN3Xa4dZuLqBQ0ec-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HtbIlN3Xa4dZuLqBQ0ec-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;boundary&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;FormDangNhap&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ dangNhap(String userName, String password)&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="YnYnntMEkjnaOTe9JXkg-1">
+          <mxGeometry x="122" y="205" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HtbIlN3Xa4dZuLqBQ0ec-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;endSize=6;" edge="1" parent="YnYnntMEkjnaOTe9JXkg-1" source="HtbIlN3Xa4dZuLqBQ0ec-3" target="HtbIlN3Xa4dZuLqBQ0ec-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HtbIlN3Xa4dZuLqBQ0ec-3" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;control&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;DKDangNhap&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ kiemTraTK(String userName, String password)&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="YnYnntMEkjnaOTe9JXkg-1">
+          <mxGeometry x="122" y="325" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HtbIlN3Xa4dZuLqBQ0ec-4" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;entity&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;TaiKhoan&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;- String: user&lt;br&gt;- String: password&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ kiemTraTK(String userName, String password)&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="YnYnntMEkjnaOTe9JXkg-1">
+          <mxGeometry x="507" y="310" width="268" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="HtbIlN3Xa4dZuLqBQ0ec-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;endSize=8;" edge="1" parent="YnYnntMEkjnaOTe9JXkg-1" source="HtbIlN3Xa4dZuLqBQ0ec-6" target="HtbIlN3Xa4dZuLqBQ0ec-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HtbIlN3Xa4dZuLqBQ0ec-6" value="Employee" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="YnYnntMEkjnaOTe9JXkg-1">
+          <mxGeometry x="52" y="215" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
