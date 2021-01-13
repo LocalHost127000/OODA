@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-13T08:55:09.685Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="CMNFCYAWa-1DZizLsXgF" version="14.1.9" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-01-13T08:55:50.647Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="laRUJ7FEVU-8isRURaWC" version="14.1.9" type="github" pages="5">
   <diagram id="RAEitHrTKvxhVRwaa03w" name="class">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -296,7 +296,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gJtraTA9fR9vWQBILO1J" name="timkiem">
-    <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="526" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="peOki2GFi4M2TUNX7zga-0" />
         <mxCell id="peOki2GFi4M2TUNX7zga-1" parent="peOki2GFi4M2TUNX7zga-0" />
@@ -314,7 +314,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="peOki2GFi4M2TUNX7zga-5" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;boundary&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;FormTK&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&amp;nbsp;+ timKiem()&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ showDSTieuChi()&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="peOki2GFi4M2TUNX7zga-1" vertex="1">
+        <mxCell id="peOki2GFi4M2TUNX7zga-5" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;boundary&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;FormTK&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&amp;nbsp;+ timKiem()&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ hienThiKQ()&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="peOki2GFi4M2TUNX7zga-1" vertex="1">
           <mxGeometry x="320" y="160" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="peOki2GFi4M2TUNX7zga-6" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;boundary&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;FormTKTaiSan&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ timKiem()&lt;br&gt;+ hienThiKQ()&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="peOki2GFi4M2TUNX7zga-1" vertex="1">
