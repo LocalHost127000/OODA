@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2021-01-13T14:20:49.293Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="mSXDiDKNVl_gaKLTHxtI" version="14.1.9" type="github">
-  <diagram id="yVp0XrDoYApOqb7zBIMi" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2021-01-13T14:41:29.114Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="vLBDU2MQL7GT6rcmexqf" version="14.1.9" type="github" pages="2">
+  <diagram id="yVp0XrDoYApOqb7zBIMi" name="sửa chữa bảo trì">
     <mxGraphModel dx="1185" dy="635" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -107,7 +107,7 @@
         <mxCell id="TZrWOq89jVCMdDlfNk_u-35" value="Không thỏa mãn" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="205" y="320" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="dS85AGG2G8XFFO7-M6LT-1" value="Biểu đồ trạng thái cho lớp sữa chữa bảo trì" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="dS85AGG2G8XFFO7-M6LT-1" value="Biểu đồ trạng thái cho lớp sửa chữa bảo trì" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="335" y="120" width="80" height="26" as="geometry" />
         </mxCell>
         <mxCell id="dS85AGG2G8XFFO7-M6LT-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startSize=7;endArrow=open;endFill=0;endSize=8;" edge="1" parent="1" source="dS85AGG2G8XFFO7-M6LT-1" target="dS85AGG2G8XFFO7-M6LT-1">
@@ -119,6 +119,14 @@
         <mxCell id="dS85AGG2G8XFFO7-M6LT-5" value="Thỏa mãn" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="375" y="520" width="65" height="20" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="_faCERDDpDWDAdvWE8Up" name="Page-2">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="nbUFpDElul4LK1lF_Ju3-0" />
+        <mxCell id="nbUFpDElul4LK1lF_Ju3-1" parent="nbUFpDElul4LK1lF_Ju3-0" />
       </root>
     </mxGraphModel>
   </diagram>
