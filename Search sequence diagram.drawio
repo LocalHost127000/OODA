@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-13T08:14:13.783Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="3yTBGgRbgemzJhjiofZ7" version="14.1.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-01-13T08:17:45.436Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="atVMe6Zg9J0w3-vwcpFG" version="14.1.9" type="github" pages="3">
   <diagram id="N7QNM568emhEB9D24lQk" name="timkiem">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -390,8 +390,8 @@
             <mxPoint x="394.29" y="523" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1xskJG7l2Akjuwn8yizV-2" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;fillColor=#ffffff;" vertex="1" parent="G6FXfckEiiROQu0nSNPk-1">
-          <mxGeometry x="111.79" y="303" width="595" height="360" as="geometry" />
+        <mxCell id="1xskJG7l2Akjuwn8yizV-2" value="Kiểm tra đăng xuất" style="shape=umlFrame;whiteSpace=wrap;html=1;fillColor=#ffffff;width=158;height=25;" vertex="1" parent="G6FXfckEiiROQu0nSNPk-1">
+          <mxGeometry x="12" y="303" width="694.79" height="360" as="geometry" />
         </mxCell>
         <mxCell id="jpdyj6smed_c-kM6v8is-8" value="show()" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="G6FXfckEiiROQu0nSNPk-1" source="pUoiE6JJREab8dVdlk_V-6">
           <mxGeometry width="80" relative="1" as="geometry">
@@ -406,10 +406,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jpdyj6smed_c-kM6v8is-17" value="Đăng xuất thành công" style="text;html=1;strokeColor=none;fillColor=#FFFFFF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="G6FXfckEiiROQu0nSNPk-1">
-          <mxGeometry x="124.29" y="343" width="120" height="20" as="geometry" />
+          <mxGeometry x="24.290000000000006" y="340" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jpdyj6smed_c-kM6v8is-20" value="Đăng xuất không thành công" style="text;html=1;strokeColor=none;fillColor=#FFFFFF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="G6FXfckEiiROQu0nSNPk-1">
-          <mxGeometry x="124.29" y="533" width="160" height="20" as="geometry" />
+          <mxGeometry x="24.290000000000006" y="530" width="160" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
