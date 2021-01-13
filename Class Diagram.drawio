@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-13T05:53:31.594Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="hvUq7Ccbp72Iu-2nnAGv" version="14.1.9" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-01-13T05:54:18.402Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="LEnuDbk42hfMSCktNjTY" version="14.1.9" type="github" pages="5">
   <diagram id="RAEitHrTKvxhVRwaa03w" name="class">
     <mxGraphModel dx="1185" dy="635" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -303,7 +303,7 @@
         <mxCell id="peOki2GFi4M2TUNX7zga-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;endSize=8;" edge="1" parent="peOki2GFi4M2TUNX7zga-1" source="peOki2GFi4M2TUNX7zga-3" target="peOki2GFi4M2TUNX7zga-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="peOki2GFi4M2TUNX7zga-3" value="Người quản lý" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="peOki2GFi4M2TUNX7zga-1">
+        <mxCell id="peOki2GFi4M2TUNX7zga-3" value="Empoloyee" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="peOki2GFi4M2TUNX7zga-1">
           <mxGeometry x="110" y="170" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="peOki2GFi4M2TUNX7zga-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;startSize=8;endArrow=open;endFill=0;endSize=6;" edge="1" parent="peOki2GFi4M2TUNX7zga-1" source="peOki2GFi4M2TUNX7zga-5" target="peOki2GFi4M2TUNX7zga-12">
